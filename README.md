@@ -1,5 +1,5 @@
 # Portfolio_Gieda
-Portfolio con im miei progetti personalial di fuori di esami e progetti scolastici
+Portfolio con i miei progetti personali al di fuori di esami e progetti scolastici:
 
 Jeff The Land Shark: Bot Telegram che permette di condividere immagini del suddetto personaggio Marvel, estraendole in maniera casuale da una cartella specifica. Ultimo aggiornamento: 03-03-2025 
 

@@ -1,0 +1,16 @@
+Creo questo file di testo per evitare incomprensioni e danni, ok?
+
+Fai cd DB_Esame (se non ci sei dentro)
+
+python manage.py startapp
+
+python manage.py createsuperuser per creare un account Admin
+
+Account admin già presente:
+
+admin@example.it
+admin123
+
+Poi fai python manage.py runserver
+
+Tutto chiaro?
